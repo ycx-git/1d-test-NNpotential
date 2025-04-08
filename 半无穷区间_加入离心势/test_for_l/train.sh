@@ -1,0 +1,1 @@
+ nohup jupyter notebook -u test_加入离心势.ipynb >> ./out_log_file/out_l_1.log 2>&1 &
