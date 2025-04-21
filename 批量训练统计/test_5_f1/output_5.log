@@ -1,0 +1,301 @@
+Execution 1 completed.
+time: 2088.73s , epoch: 3345 , loss: 0.0358
+total time: 34.87540334860484  min
+Execution 2 completed.
+time: 1600.59s , epoch: 2566 , loss: 0.0326
+total time: 61.55273704528808  min
+Execution 3 completed.
+time: 9034.55s , epoch: 16639 , loss: 0.0082
+total time: 212.12928189436596  min
+Execution 4 completed.
+time: 1768.45s , epoch: 4002 , loss: 0.0100
+total time: 241.6041455189387  min
+Execution 5 completed.
+time: 3120.03s , epoch: 9561 , loss: 0.0111
+total time: 293.6050692796707  min
+Execution 6 completed.
+time: 3069.05s , epoch: 11524 , loss: 0.0192
+total time: 344.7560524344444  min
+Execution 7 completed.
+time: 486.43s , epoch: 2202 , loss: 0.0259
+total time: 352.86333965857824  min
+Execution 8 completed.
+time: 452.70s , epoch: 2703 , loss: 0.0277
+total time: 360.4084604740143  min
+Execution 9 completed.
+time: 672.23s , epoch: 4024 , loss: 0.0279
+total time: 371.61239204804104  min
+Execution 10 completed.
+time: 907.89s , epoch: 5386 , loss: 0.0187
+total time: 386.7438678741455  min
+Execution 11 completed.
+time: 397.28s , epoch: 2340 , loss: 0.0204
+total time: 393.3651905655861  min
+Execution 12 completed.
+time: 415.04s , epoch: 2452 , loss: 0.0213
+total time: 400.28261520862577  min
+Execution 13 completed.
+time: 605.03s , epoch: 3570 , loss: 0.0257
+total time: 410.36656404733657  min
+Execution 14 completed.
+time: 481.29s , epoch: 2842 , loss: 0.0226
+total time: 418.38802570501963  min
+Execution 15 completed.
+time: 622.01s , epoch: 3689 , loss: 0.0707
+total time: 428.7548096338908  min
+Execution 16 completed.
+time: 343.21s , epoch: 2023 , loss: 0.0241
+total time: 434.4749327421188  min
+Execution 17 completed.
+time: 441.69s , epoch: 2602 , loss: 0.0797
+total time: 441.83641353448235  min
+Execution 18 completed.
+time: 560.89s , epoch: 3312 , loss: 0.0015
+total time: 451.18464703559874  min
+Execution 19 completed.
+time: 802.36s , epoch: 4760 , loss: 0.0027
+total time: 464.55738718907037  min
+Execution 20 completed.
+time: 2794.48s , epoch: 16726 , loss: 0.0026
+total time: 511.1321700175603  min
+Execution 21 completed.
+time: 568.56s , epoch: 3378 , loss: 0.0431
+total time: 520.6082381804785  min
+Execution 22 completed.
+time: 773.89s , epoch: 4577 , loss: 0.0326
+total time: 533.5064844051997  min
+Execution 23 completed.
+time: 781.68s , epoch: 4670 , loss: 0.0595
+total time: 546.5345618605613  min
+Execution 24 completed.
+time: 618.87s , epoch: 3685 , loss: 0.0281
+total time: 556.8490848978361  min
+Execution 25 completed.
+time: 636.08s , epoch: 3818 , loss: 0.0493
+total time: 567.450479388237  min
+Execution 26 completed.
+time: 375.61s , epoch: 2221 , loss: 0.0226
+total time: 573.7107152223587  min
+Execution 27 completed.
+time: 2203.71s , epoch: 13166 , loss: 0.0581
+total time: 610.4391822020212  min
+Execution 28 completed.
+time: 1078.43s , epoch: 6403 , loss: 0.0062
+total time: 628.4129865805309  min
+Execution 29 completed.
+time: 377.05s , epoch: 2235 , loss: 0.0318
+total time: 634.69724000295  min
+Execution 30 completed.
+time: 535.40s , epoch: 3179 , loss: 0.0207
+total time: 643.620568048954  min
+Execution 31 completed.
+time: 519.64s , epoch: 3079 , loss: 0.0265
+total time: 652.2813065369924  min
+Execution 32 completed.
+time: 1381.01s , epoch: 8190 , loss: 0.0189
+total time: 675.2982097029686  min
+Execution 33 completed.
+time: 488.05s , epoch: 2901 , loss: 0.0681
+total time: 683.432451693217  min
+Execution 34 completed.
+time: 1754.43s , epoch: 10425 , loss: 0.0210
+total time: 712.6729668577512  min
+Execution 35 completed.
+time: 514.97s , epoch: 3047 , loss: 0.0258
+total time: 721.2558291316033  min
+Execution 36 completed.
+time: 2700.78s , epoch: 16047 , loss: 0.0100
+total time: 766.2687913616498  min
+Execution 37 completed.
+time: 563.71s , epoch: 3328 , loss: 0.0146
+total time: 775.663931997617  min
+Execution 38 completed.
+time: 471.22s , epoch: 2792 , loss: 0.0259
+total time: 783.5176229119301  min
+Execution 39 completed.
+time: 664.59s , epoch: 3940 , loss: 0.0187
+total time: 794.5942085941632  min
+Execution 40 completed.
+time: 1181.91s , epoch: 7043 , loss: 0.0266
+total time: 814.2926904439926  min
+Execution 41 completed.
+time: 924.77s , epoch: 5501 , loss: 0.0128
+total time: 829.7055525660514  min
+Execution 42 completed.
+time: 790.61s , epoch: 4686 , loss: 0.0140
+total time: 842.8824805855751  min
+Execution 43 completed.
+time: 627.42s , epoch: 3719 , loss: 0.0182
+total time: 853.3395355184873  min
+Execution 44 completed.
+time: 652.42s , epoch: 3916 , loss: 0.0159
+total time: 864.2132372260094  min
+Execution 45 completed.
+time: 667.82s , epoch: 3977 , loss: 0.0438
+total time: 875.3435795426369  min
+Execution 46 completed.
+time: 426.79s , epoch: 2529 , loss: 0.0249
+total time: 882.4568414052327  min
+Execution 47 completed.
+time: 559.50s , epoch: 3317 , loss: 0.0321
+total time: 891.7819345275561  min
+Execution 48 completed.
+time: 445.16s , epoch: 2633 , loss: 0.0166
+total time: 899.2013348778089  min
+Execution 49 completed.
+time: 529.16s , epoch: 3133 , loss: 0.0373
+total time: 908.0207760532697  min
+Execution 50 completed.
+time: 529.12s , epoch: 3147 , loss: 0.0313
+total time: 916.8395250757535  min
+Execution 51 completed.
+time: 1102.19s , epoch: 6532 , loss: 0.0197
+total time: 935.2093646764755  min
+Execution 52 completed.
+time: 3014.32s , epoch: 17900 , loss: 0.0119
+total time: 985.4480225920677  min
+Execution 53 completed.
+time: 433.12s , epoch: 2564 , loss: 0.0436
+total time: 992.6667301217715  min
+Execution 54 completed.
+time: 367.38s , epoch: 2217 , loss: 0.1134
+total time: 998.7897586901983  min
+Execution 55 completed.
+time: 742.32s , epoch: 4398 , loss: 0.0211
+total time: 1011.1617793718974  min
+Execution 56 completed.
+time: 550.18s , epoch: 3264 , loss: 0.0252
+total time: 1020.3315360665322  min
+Execution 57 completed.
+time: 689.22s , epoch: 4084 , loss: 0.0411
+total time: 1031.8185256242753  min
+Execution 58 completed.
+time: 909.80s , epoch: 5394 , loss: 0.0355
+total time: 1046.9819438695909  min
+Execution 59 completed.
+time: 523.80s , epoch: 3121 , loss: 0.0375
+total time: 1055.7120113372803  min
+Execution 60 completed.
+time: 990.73s , epoch: 5891 , loss: 0.0782
+total time: 1072.22425917387  min
+Execution 61 completed.
+time: 90.76s , epoch: 536 , loss: 3.2011
+total time: 1073.7370323856671  min
+Execution 62 completed.
+time: 395.36s , epoch: 2344 , loss: 0.0245
+total time: 1080.3263820489249  min
+Execution 63 completed.
+time: 1690.48s , epoch: 10181 , loss: 0.0190
+total time: 1108.5010785420736  min
+Execution 64 completed.
+time: 677.08s , epoch: 4028 , loss: 0.0692
+total time: 1119.7858098069826  min
+Execution 65 completed.
+time: 1153.59s , epoch: 6834 , loss: 0.0065
+total time: 1139.0122939268747  min
+Execution 66 completed.
+time: 794.45s , epoch: 4729 , loss: 0.0099
+total time: 1152.253077340126  min
+Execution 67 completed.
+time: 700.96s , epoch: 4146 , loss: 0.0056
+total time: 1163.9357768336931  min
+Execution 68 completed.
+time: 81.34s , epoch: 477 , loss: 3.1576
+total time: 1165.2915008584657  min
+Execution 69 completed.
+time: 341.37s , epoch: 2029 , loss: 0.1887
+total time: 1170.98106503884  min
+Execution 70 completed.
+time: 1413.29s , epoch: 8418 , loss: 0.0113
+total time: 1194.5359112342198  min
+Execution 71 completed.
+time: 359.80s , epoch: 2124 , loss: 0.0254
+total time: 1200.5326769153278  min
+Execution 72 completed.
+time: 568.70s , epoch: 3391 , loss: 0.0341
+total time: 1210.0110553900402  min
+Execution 73 completed.
+time: 743.60s , epoch: 4403 , loss: 0.0286
+total time: 1222.4044288992882  min
+Execution 74 completed.
+time: 651.17s , epoch: 3875 , loss: 0.0853
+total time: 1233.257288225492  min
+Execution 75 completed.
+time: 1559.00s , epoch: 9247 , loss: 0.0576
+total time: 1259.2406816363334  min
+Execution 76 completed.
+time: 613.26s , epoch: 3642 , loss: 0.0212
+total time: 1269.461773053805  min
+Execution 77 completed.
+time: 819.79s , epoch: 4906 , loss: 0.0473
+total time: 1283.124933151404  min
+Execution 78 completed.
+time: 464.60s , epoch: 2759 , loss: 0.0301
+total time: 1290.8683498620987  min
+Execution 79 completed.
+time: 420.30s , epoch: 2487 , loss: 0.0162
+total time: 1297.8734566489854  min
+Execution 80 completed.
+time: 393.90s , epoch: 2337 , loss: 0.0805
+total time: 1304.438568798701  min
+Execution 81 completed.
+time: 688.57s , epoch: 4082 , loss: 0.0329
+total time: 1315.9147425214449  min
+Execution 82 completed.
+time: 513.33s , epoch: 3042 , loss: 0.0265
+total time: 1324.4702114025752  min
+Execution 83 completed.
+time: 703.21s , epoch: 4258 , loss: 0.0168
+total time: 1336.1903905789056  min
+Execution 84 completed.
+time: 382.02s , epoch: 2253 , loss: 0.0195
+total time: 1342.5574506719906  min
+Execution 85 completed.
+time: 575.70s , epoch: 3402 , loss: 0.0254
+total time: 1352.1524782180786  min
+Execution 86 completed.
+time: 517.16s , epoch: 3068 , loss: 0.0565
+total time: 1360.7717701236406  min
+Execution 87 completed.
+time: 610.15s , epoch: 3624 , loss: 0.0310
+total time: 1370.9409247279168  min
+Execution 88 completed.
+time: 533.32s , epoch: 3161 , loss: 0.0196
+total time: 1379.8296877106031  min
+Execution 89 completed.
+time: 372.15s , epoch: 2263 , loss: 0.1115
+total time: 1386.032188932101  min
+Execution 90 completed.
+time: 1151.45s , epoch: 6817 , loss: 0.0037
+total time: 1405.2229959408442  min
+Execution 91 completed.
+time: 547.65s , epoch: 3242 , loss: 0.0142
+total time: 1414.3505888700486  min
+Execution 92 completed.
+time: 495.98s , epoch: 2928 , loss: 0.0199
+total time: 1422.6169350306193  min
+Execution 93 completed.
+time: 2458.85s , epoch: 14684 , loss: 0.0157
+total time: 1463.5978374083836  min
+Execution 94 completed.
+time: 930.07s , epoch: 5511 , loss: 0.0123
+total time: 1479.0989842971167  min
+Execution 95 completed.
+time: 569.30s , epoch: 3360 , loss: 0.0244
+total time: 1488.587433886528  min
+Execution 96 completed.
+time: 1398.87s , epoch: 8290 , loss: 0.0396
+total time: 1511.901969909668  min
+Execution 97 completed.
+time: 551.45s , epoch: 3276 , loss: 0.0395
+total time: 1521.0928554177285  min
+Execution 98 completed.
+time: 1354.08s , epoch: 8037 , loss: 0.0142
+total time: 1543.6608922640482  min
+Execution 99 completed.
+time: 444.65s , epoch: 2631 , loss: 0.0138
+total time: 1551.0717788100242  min
+Execution 100 completed.
+time: 622.39s , epoch: 3678 , loss: 0.0124
+total time: 1561.4449581106503  min
+ 所有执行完成 

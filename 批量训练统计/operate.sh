@@ -1,0 +1,16 @@
+nohup python -u ./test_0_f1/test_0.py >> ./test_0_f1/output_0.log 2>&1 &
+nohup python -u ./test_2_f1/test_2.py >> ./test_2_f1/output_2.log 2>&1 &
+nohup python -u ./test_3_f1/test_3.py >> ./test_3_f1/output_3.log 2>&1 &
+nohup python -u ./test_4_f1/test_4.py >> ./test_4_f1/output_4.log 2>&1 &
+nohup python -u ./test_5_f1/test_5.py >> ./test_5_f1/output_5.log 2>&1 &
+nohup python -u ./test_6_f1/test_6.py >> ./test_6_f1/output_6.log 2>&1 &
+nohup python -u ./test_7_f1/test_7.py >> ./test_7_f1/output_7.log 2>&1 &
+nohup python -u test_sy_f4_80.py >> output.log 2>&1 &
+nohup python -u test_sy_f4_100.py >> output.log 2>&1 &
+nohup python -u test_sy_f4_120.py >> output.log 2>&1 &
+nohup python -u test_sy_f4_140.py >> output.log 2>&1 &
+nohup python -u test_sy_f4_160.py >> output.log 2>&1 &
+nohup python -u test_sy_f4_180.py >> output.log 2>&1 &
+nohup python -u test_sy_f4_200.py >> output.log 2>&1 &
+nohup python -u test_sy_f4_220.py >> output.log 2>&1 &
+nohup python -u test_sy_f4_240.py >> output.log 2>&1 &

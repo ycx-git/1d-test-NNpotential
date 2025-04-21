@@ -1,0 +1,18 @@
+Execution 1 completed.
+time: 807.40s , epoch: 11808 , loss: 0.5579
+total time: 13.580382605393728  min
+Execution 2 completed.
+time: 98.77s , epoch: 1439 , loss: 0.5838
+total time: 15.226571464538575  min
+Execution 3 completed.
+time: 220.25s , epoch: 3206 , loss: 0.6389
+total time: 18.89751165310542  min
+Execution 4 completed.
+time: 699.72s , epoch: 10216 , loss: 0.4005
+total time: 30.55961098273595  min
+Execution 5 completed.
+time: 151.85s , epoch: 2217 , loss: 0.5807
+total time: 33.090490865707395  min
+Execution 6 completed.
+time: 1454.18s , epoch: 21241 , loss: 0.4263
+total time: 57.326843031247456  min
